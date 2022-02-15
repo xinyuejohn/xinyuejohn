@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xinyuejohn
 - 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning Informatics in TUM
+- 🌱 I’m currently learning Informatics at TUM
 
 <!---
 xinyuejohn/xinyuejohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
